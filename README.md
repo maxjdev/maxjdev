@@ -1,8 +1,8 @@
 <img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maxjdev/6664d36b09e54f691cd923e5479b54fc/raw/d93c806a17d54695d3ec4df29ba86b0afbd182bc/cardreadme.svg" />
 
 <h1 align="left">👋🏽 Olá, Sou o Max</h1>
-<a href="https://www.linkedin.com/in/maxramosdev/" target="_blank" ><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin icon" /></a>&nbsp;&nbsp;
-<a href="mailto:maxjramosdev@gmail.com" target="_blank"><img width="30px" src="https://user-images.githubusercontent.com/116047257/209864669-2f29af98-7607-4d42-af32-09ff7ff2c1a9.png" alt="gmail icon "/></a>
+<a target="_blank" href="https://www.linkedin.com/in/maxramosdev/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin icon" /></a>&nbsp;&nbsp;
+<a target="_blank" href="mailto:maxjramosdev@gmail.com"><img width="30px" src="https://user-images.githubusercontent.com/116047257/209864669-2f29af98-7607-4d42-af32-09ff7ff2c1a9.png" alt="gmail icon "/></a>
 <p>- Olá, Sou o Max, estudo Desenvolvimento com foco final em Kotlin e Java, minha carreira é o meu principal foco e sonho, uso meu tempo livre para estudar sobre, além de gostar e ser muito interessado na área!!!<br>
 - Em transição de carreira como Técnico em Enfermagem e após muitos plantões extensos e situações de pressão me ajudaram a desenvolver Resiliência. Algo muito relevante que vou levar dessa experiência é o aprendizado e a importância das Soft Skills como, por exemplo:<br>
 --Autodidatismo 🧠<br>
