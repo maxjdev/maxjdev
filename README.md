@@ -3,25 +3,26 @@
 <h1 align="left">👋🏽 Olá, Sou o Max</h1>
 <a target="_blank" href="https://www.linkedin.com/in/maxramosdev/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin icon" /></a>&nbsp;&nbsp;
 Email: <strong><em>maxjramosdev@gmail.com</em></strong>
-<p>- Olá, Sou o Max, estudo Desenvolvimento com foco final em Java e Kotlin, minha carreira é o meu principal foco e sonho, uso meu tempo livre para estudar sobre, além de gostar e ser muito interessado na área!!!<br>
-- Em transição de carreira como Técnico em Enfermagem e após muitos plantões extensos e situações de pressão me ajudaram a desenvolver Resiliência. Algo muito relevante que vou levar dessa experiência é o aprendizado e a importância das Soft Skills como, por exemplo:<br>
+<p>- Olá, sou o Max, estudo Desenvolvimento FullStack em JavaScript, minha carreira é o meu principal foco e sonho, uso meu tempo livre para estudar, além de gostar e ser muito interessado pela área e novas tecnologias !<br>
+- Em transição de carreira, trabalhando como Motoboy e Auxiliar em Obra Civil, estudando muito com muita dedicação para construir uma carreira solida como Desenvolvedor !<br>
+- Como Técnico em Enfermagem após vários plantões extensos e situações de pressão me ajudaram a desenvolver Resiliência e o aprendizado de Soft Skills como, por exemplo:<br>
 --Autodidatismo 🧠<br>
 --Perseverança 💪🏽<br>
 --Flexibilidade 🙇🏽 <br>
 --Organização 📋</p>
 <br>
 <p><h2>🛤 Meta de RoadMap:</h2>
--Linux :heavy_check_mark:<br>
--Git/GitHub :heavy_check_mark:<br>
--HTML :heavy_check_mark:<br>
--CSS + Framework 📖<br>
--SASS 📚<br>
+-Linux ✅<br>
+-Git/GitHub ✅<br>
+-HTML ✅<br>
+-CSS 📖<br>
 -Lógica, Algoritmos e Estrutura de Dados 📚<br>
 -JavaScript 📚<br>
--(React / Angular) + Framework 📚<br>
+-React e React Native 📚<br>
+-Testes 📚<br>
 -Node 📚<br>
--Deploy 📚<br>
--Java / Kotlin 📚...</p><br>
+-Firebase 📚<br>
+-Deploy 📚</p><br>
 <div align="center">
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
