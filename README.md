@@ -15,8 +15,8 @@ Email: <strong><em>maxjramosdev@gmail.com</em></strong>
 -Linux ✅<br>
 -Git/GitHub ✅<br>
 -Lógica, Algoritmos e Estrutura de Dados ✅<br>
--Docker 📖<br>
--Java 📚<br>
+-Docker ✅<br>
+-Java 📖<br>
 -Kotlin 📚<br>
 -Banco de Dados e SQL 📚<br>
 
