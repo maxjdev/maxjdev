@@ -14,11 +14,13 @@ Email: <strong><em>maxjramosdev@gmail.com</em></strong>
 <p><h2>🛤 Meta de RoadMap:</h2>
 -Linux ✅<br>
 -Git/GitHub ✅<br>
--Lógica, Algoritmos e Estrutura de Dados ✅<br>
+-Lógica e Algoritmos✅<br>
 -Docker ✅<br>
 -Java 📖<br>
+-Java + POO 📚<br>
 -Kotlin 📚<br>
--Banco de Dados e SQL 📚<br>
+-Banco de Dados 📚<br>
+-API 📚<br>
 
 <div align="center">
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
