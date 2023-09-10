@@ -11,24 +11,23 @@ Email: <strong><em>maxjramosdev@gmail.com</em></strong>
 --Flexibilidade 🙇🏽 <br>
 --Organização 📋</p>
 <br>
-<p><h2>🛤 Meta de RoadMap:</h2>
+<p><h2>RoadMap 🛤</h2>
+-HTML + CSS ✅<br>
 -Linux ✅<br>
 -Git/GitHub ✅<br>
 -Lógica e Algoritmos✅<br>
 -Docker ✅<br>
--Java 📖<br>
--Java + POO 📚<br>
+-Java + POO 📖<br>
 -Kotlin 📚<br>
--Banco de Dados 📚<br>
--API 📚<br>
 
 <div align="center">
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" />
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" wight="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /><br>
-  <h3>Main Distro:<img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fedora/fedora-original.svg" /></h3>
-</div><br>
 <div align="center">
   <a href="https://github.com/maxjdev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maxjdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
