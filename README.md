@@ -12,22 +12,24 @@ Email: <strong><em>maxjramosdev@gmail.com</em></strong>
 --Organização 📋</p>
 <br>
 <p><h2>RoadMap 🛤</h2>
--HTML + CSS ✅<br>
+-Lógica e Algoritmos ✅<br>
 -Linux ✅<br>
+-HTML5 + CSS3 ✅<br>
 -Git/GitHub ✅<br>
--Lógica e Algoritmos✅<br>
 -Docker ✅<br>
--Java + POO 📖<br>
+-JavaScript 📖<br>
+-Java 📖<br>
 -Kotlin 📚<br>
 
 <div align="center">
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
   <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/thealgorithms/thealgorithms-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
   <img align="center" wight="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" /><br>
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>
+
 <div align="center">
   <a href="https://github.com/maxjdev">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maxjdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
