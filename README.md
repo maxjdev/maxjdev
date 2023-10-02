@@ -9,7 +9,8 @@ Email: <strong style="text-align: center;" ><em>maxjramosdev@gmail.com</em></str
 --Autodidatismo 🧠<br>
 --Perseverança 💪🏽<br>
 --Flexibilidade 🙇🏽 <br>
---Organização 📋</p>
+--Organização 📋<br>
+--Constante desenvolvimento...</p>
 <br>
 <p><h2>RoadMap 🛤</h2>
 -Lógica e Algoritmos ✅<br>
