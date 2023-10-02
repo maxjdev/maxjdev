@@ -2,10 +2,10 @@
 
 <h1 align="left">👋🏽 Olá, Sou o Max</h1>
 <a target="_blank" href="https://www.linkedin.com/in/maxramosdev/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin icon" /></a>&nbsp;&nbsp;
-Email: <strong><em>maxjramosdev@gmail.com</em></strong>
-<p>- Olá, sou o Max, estudo Desenvolvimento em Kotlin/Java, minha carreira é o meu principal foco e sonho, uso meu tempo livre para estudar, além de gostar e ser muito interessado pela área e novas tecnologias !<br>
-- Em transição de carreira, trabalhando como Motoboy e Auxiliar em montagem de andaimes, estudando muito com muita dedicação para construir uma carreira solida como Desenvolvedor !<br>
-- Com minha experiência desenvolvi Resiliência e o aprendizado de Soft Skills como, por exemplo:<br>
+Email: <strong style="text-align: center;" ><em>maxjramosdev@gmail.com</em></strong>
+<p>- Estudo Desenvolvimento Full-Stack Java com pretenção de me especializar em Back-End com Java e Kotlin.<br>
+- Em transição de carreira e estudando muito com muita dedicação para construir uma carreira solida como Desenvolvedor !<br>
+- Minhas experiências ajudaram a desenvolver Soft Skills como:<br>
 --Autodidatismo 🧠<br>
 --Perseverança 💪🏽<br>
 --Flexibilidade 🙇🏽 <br>
