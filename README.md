@@ -1,38 +1,40 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/maxjdev/6664d36b09e54f691cd923e5479b54fc/raw/d93c806a17d54695d3ec4df29ba86b0afbd182bc/cardreadme.svg" />
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
+  
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+My+Name+is+Max+;I'm+23+years+old;I+am+from+Brazil;I'm+studying+FullStack+Java+development+at+EBAC;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
-<h1 align="left">👋🏽 Olá, Sou o Max</h1>
-<a target="_blank" href="https://www.linkedin.com/in/maxramosdev/"><img width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin icon" /></a>&nbsp;&nbsp;
-Email: <strong style="text-align: center;" ><em>maxjramosdev@gmail.com</em></strong>
-<p>- Estudo Desenvolvimento Full-Stack Java com pretenção de me especializar em Back-End com Java e Kotlin.<br>
-- Em transição de carreira e estudando muito com muita dedicação para construir uma carreira solida como Desenvolvedor !<br>
-- Minhas experiências ajudaram a desenvolver Soft Skills como:<br>
---Autodidatismo 🧠<br>
---Perseverança 💪🏽<br>
---Flexibilidade 🙇🏽 <br>
---Organização 📋<br>
---Constante desenvolvimento...</p>
-<br>
-<p><h2>RoadMap 🛤</h2>
--Lógica e Algoritmos ✅<br>
--Linux ✅<br>
--HTML5 + CSS3 ✅<br>
--Git/GitHub ✅<br>
--Docker ✅<br>
--JavaScript 📖<br>
--Java 📖<br>
--Kotlin 📚<br>
+<div align="center">  
+<a href="https://www.linkedin.com/in/maxjdev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a>
+</div> 
 
-<div align="center">
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" wight="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-  <img align="center" width="50px" height="40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" /><br>
+### Utils: 
+<img width="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;
+<img width="50px" src="https://user-images.githubusercontent.com/25181517/192108890-200809d1-439c-4e23-90d3-b090cf9a4eea.png" />&nbsp;
+<img width="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />&nbsp;
+<img width="50px" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" />&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
+<img width="50px" src="https://github.com/maxjdev/maxjdev/assets/116047257/52fc4ae8-8f84-4e7e-9416-f90f5d115837" />
 
-<div align="center">
-  <a href="https://github.com/maxjdev">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=maxjdev&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxjdev&layout=compact&langs_count=7&theme=dark"/>
-</div><br>
+### Back-End skills:
+<img width="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" />&nbsp;
+<img width="50px" src="https://user-images.githubusercontent.com/25181517/117207330-263ba280-adf4-11eb-9b97-0ac5b40bc3be.png" />&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg" />&nbsp;
+
+### Front-End skills:
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
+<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg" />&nbsp;
+
+<div align="center">  
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxjdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Max github stats" /> 
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=maxjdev&layout=compact&hide_border=true&title_color=00bfbf&text_color=00bfbf&bg_color=0d1117" />
+</div>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=maxjdev&bg_color=000000&color=15e5a6&line=07e9a5&point=0a855c&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=maxjdev&theme=dracula&row=2&no-bg=true&column=3&margin-w=15&margin-h=15" />
+</p>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=footer"/>
