@@ -12,7 +12,6 @@
 <img width="50px" src="https://user-images.githubusercontent.com/25181517/192108891-d86b6220-e232-423a-bf5f-90903e6887c3.png" />&nbsp;
 <img width="50px" src="https://user-images.githubusercontent.com/25181517/186885787-4011a347-1f68-472c-bf8b-31ed1bb4f8ce.png" />&nbsp;
 <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/trello/trello-plain.svg" />
-<img width="50px" src="https://github.com/maxjdev/maxjdev/assets/116047257/52fc4ae8-8f84-4e7e-9416-f90f5d115837" />
 
 ### Back-End skills:
 <img width="50px" src="https://github.com/marwin1991/profile-technology-icons/assets/76662862/2481dc48-be6b-4ebb-9e8c-3b957efe69fa" />&nbsp;
