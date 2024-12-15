@@ -1,6 +1,6 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00bfbf&height=120&section=header"/>
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=System.out.println("Hello,+my+name+is+Max");System.out.println("I+am+24+years+old");System.out.println("I+am+from+Brazil");I+am+studying+FullStack+Java+development;Be+Welcome!+:%59)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=System.out.println("Hello,+my+name+is+Max");System.out.println("I+am+24+years+old");I+am+Software+Developer;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
 <a href="https://www.linkedin.com/in/maxjdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
