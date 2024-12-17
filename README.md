@@ -3,34 +3,38 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00bfbf&size=35&center=true&vCenter=true&width=1000&lines=System.out.println("Hello,+my+name+is+Max");System.out.println("I+am+24+years+old");I+am+Software+Developer;Welcome!)](https://git.io/typing-svg)
 
 <div align="center">  
-<a href="https://www.linkedin.com/in/maxjdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div> 
+<a href="https://www.linkedin.com/in/maxjdev/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a><br><br>
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;&nbsp;
+  <img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;&nbsp;
+</div><br>
 
-### Back-End skills:
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />&nbsp;
-<img width="50px" src="https://user-images.githubusercontent.com/25181517/117533873-484d4480-afef-11eb-9fad-67c8605e3592.png" />&nbsp;
-<img width="50px" src="https://user-images.githubusercontent.com/25181517/183892181-ad32b69e-3603-418c-b8e7-99e976c2a784.png" />&nbsp;
-<img width="50px" src="https://icons-for-free.com/iff/png/256/vscode+icons+type+maven-1324451386617447973.png" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/gradle/gradle-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swagger/swagger-original.svg" />&nbsp;
+## Sobre:
+Sou um desenvolvedor Java focado em construir soluções robustas e escaláveis utilizando Java e Spring framework. Embora tenha preferência pelo Back-End, também possuo habilidades no desenvolvimento de interfaces Front-End, o que me proporcionou uma visão mais ampla do ciclo completo de desenvolvimento.
 
-### DevOps e others:
-<img width="50px" src="https://user-images.githubusercontent.com/25181517/192108372-f71d70ac-7ae6-4c0d-8395-51d8870c2ef0.png" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jenkins/jenkins-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" />&nbsp;
+Minha formação inclui curso profissionalizante de Desenvolvimento Full-Stack Java e Rect pela EBAC, onde fiquei no Top 1% dos alunos mais produtivos em 2023 e diversas certificações, cursos e bootcamps pela DIO, que me proporcionaram uma sólida base em desenvolvimento de software com foco em soluções escaláveis e eficientes.
 
-### Front-End skills:
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />&nbsp;
-<img width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />&nbsp;
+Tenho um perfil autodidata e sou movido pelo aprendizado contínuo. Atualmente, estou aprofundando meus conhecimentos em microsserviços e observabilidade, em breve, estudarei Angular e Node.
+
+Habilidades técnicas:
+
+● Desenvolvimento Back-End: Java, Spring Boot, Spring Web, Spring Data, Spring Security, Spring Cloud, JPA, Hibernate, Maven, Gradle, RabbitMQ, Kafka<br>
+● Desenvolvimento Front-End:  HTML, CSS, SCSS, JavaScript, Typescript, React, Gulp, JQuery<br>
+● Arquitetura: Microsserviços, API REST, Arquitetura Orientada a Eventos<br>
+● Bancos de dados Relacionais: Postgres, MySQL; NoSQL Não-relacionais: MongoDB<br>
+● Testes e Qualidade: SOLID, TDD, JUnit, Mockito, MockMVC, Cypress, Padrões de Projeto<br>
+● DevOps e CI/CD: Docker, Jenkins, Github Actions, GitLab, DevOps, CI/CD<br>
+● Versionamento e Controle de Código: Git, GitHub, GitLab<br>
+● Sistemas Operacionais: Linux, Windows<br>
+● Metodologias Ágeis: Scrum, Kanban<br>
+● Documentação e Testes de API: Swagger(OpenAPI), Postman<br>
+
+Entre em contato:<br>
+maxjramosdev@gmail.com<br>
+(19) 9 9117-0761<br>
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxjdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Max github stats" /> 
