@@ -29,11 +29,9 @@ Habilidades técnicas:
 ● Metodologias Ágeis: Scrum, Kanban<br>
 ● Documentação e Testes de API: Swagger(OpenAPI), Postman<br>
 
-Visite meu portfólio para saber mais sobre meus projetos. Link nos destaques.
-
-Entre em contato:
-maxjramosdev@gmail.com
-(19) 9 9117-0761
+Entre em contato:<br>
+**E-mail:** maxjramosdev@gmail.com<br>
+**Celular / WhatsApp:** (19) 9 9117-0761
 
 <div align="center">  
   <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=maxjdev&show_icons=true&count_private=true&hide_border=true&title_color=00bfbf&icon_color=00bfbf&text_color=c9d1d9&bg_color=0d1117" alt="Max github stats" /> 
